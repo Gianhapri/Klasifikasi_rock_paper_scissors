@@ -1,3 +1,3 @@
 # Klasifikasi Gunting Batu Kertas
 
-Ini adalah latihan dasar mendeteksi gunting, batu, dan kertas
+Ini adalah metode dasar mendeteksi tangan dengan permainan gunting, batu, dan kertas
